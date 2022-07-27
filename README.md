@@ -10,7 +10,7 @@ Dans un premier temps, télécharger et installer le pharo launcher en suivant l
 <img src="https://pharo-project.github.io/pharo-launcher/images/pharo-launcher.png" alt="Pharo Launcher" style="width:550px;"/>
 
 Une fois le pharo launcher lancé, suivre ces étapes pour exécuter une image Moose :
-1. Cliquer sur le bouton **Import** <img src="images/Import_image.png" alt="Import button" style="width:20px;"/> et séléctionner la première option. <br/> <img src="images/wwyltd.png" alt="What would you like to do?" style="width:350px;">
+1. Cliquer sur le bouton **Import** <img src="images/Import_image.png" alt="Import button" style="width:20px;"/> et séléctionner la deuxième option. <br/> <img src="images/wwyltd.png" alt="What would you like to do?" style="width:350px;">
 2. Sélectionner l'image (fichier avec extension *.image*) sur le disque. <br/> <img src="images/importpharoimage.png" alt="Import from disk window" style="width:350px;">
 3. Séléctionner l'image dans la liste et cliquer sur le bouton **Launch** <img src="images/launchbutton.png" alt="Launch button" style="width:20px;">.
 4. L'image Moose est lancée. <br/> <img src="images/MooseImage.png" alt="Moose image" style="width:350px">
